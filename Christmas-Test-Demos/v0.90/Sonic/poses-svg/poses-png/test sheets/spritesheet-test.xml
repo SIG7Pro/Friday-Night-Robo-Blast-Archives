@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameover.png.probably">
+	<!-- XML is handmade, but I used an unnamed sprite sheet generator this time since the other one I used for the game over generated multiple sheets when I put four of Sonic's frames in for some reason. -->
+	<!-- https://www.codeandweb.com/free-sprite-sheet-packer -->
+	<SubTexture name="Sonic DownCool0000" x="2" y="2" width="706" height="813"/>
+	<SubTexture name="Sonic Down0000" x="712" y="2" width="706" height="813"/>
+	<SubTexture name="Sonic Down0001" x="1422" y="2" width="706" height="813"/>
+
+
+	<SubTexture name="Sonic Idle0000" x="2132" y="2" width="706" height="2"/>
+	<SubTexture name="Sonic Idle0001" x="2" y="819" width="706" height="813"/>
+	<SubTexture name="Sonic Idle0002" x="712" y="819" width="706" height="813"/>
+	<SubTexture name="Sonic Idle0003" x="1422" y="819" width="706" height="813"/>
+	<SubTexture name="Sonic Idle0004" x="2132" y="819" width="706" height="813"/>
+	<SubTexture name="Sonic Idle0005" x="2" y="1636" width="706" height="813"/>
+	<SubTexture name="Sonic Idle0006" x="712" y="1636" width="706" height="813"/>
+
+	<SubTexture name="Sonic Left0000" x="1422" y="1636" width="706" height="813"/>
+	<SubTexture name="Sonic Left0001" x="2132" y="1636" width="706" height="813"/>
+
+	<SubTexture name="Sonic Right0000" x="2842" y="2" width="706" height="813"/>
+	<SubTexture name="Sonic Right0001" x="2842" y="819" width="706" height="813"/>
+
+	<SubTexture name="Sonic Up0000" x="2842" y="1636" width="706" height="813"/>
+	<SubTexture name="Sonic Up0001" x="2" y="2453" width="706" height="813"/>
+
+
+</TextureAtlas>

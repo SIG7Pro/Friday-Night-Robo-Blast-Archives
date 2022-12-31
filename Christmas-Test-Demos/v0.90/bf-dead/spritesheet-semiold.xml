@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameover.png.probably">
+	<!-- Created with SpriteSheet Packer, XML is handmade. -->
+	<!-- https://github.com/amakaseev/sprite-sheet-packer/releases -->
+	<SubTexture name="BF Dead Loop0000" x="0" y="0" width="458" height="700"/>
+	<SubTexture name="BF dies0000" x="0" y="0" width="458" height="700"/>
+	<SubTexture name="BF Dead confirm0000" x="0" y="0" width="458" height="700"/>
+	<SubTexture name="BF Dead confirm0001" x="500" y="0" width="458" height="700"/>
+	<SubTexture name="BF Dead confirm0002" x="0" y="753" width="458" height="700"/>
+ 	<SubTexture name="BF Dead confirm0003" x="958" y="0" width="458" height="700"/>
+	<SubTexture name="BF Dead confirm0004" x="500" y="753" width="458" height="700"/>
+	<SubTexture name="BF Dead confirm0005" x="958" y="753" width="458" height="700"/>
+</TextureAtlas>
